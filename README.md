@@ -3,7 +3,8 @@
 ## Project setup
 ```
 Use the products.json file in the postman folder to run an api with postman.
-Use http://localhost:3000/api/products as a route in postman or change it to what you wanna use at line 54 in the App.vue file.
+Use http://localhost:3000/api/products as a route in postman or change it to what 
+you wanna use at line 54 in the App.vue file.
 ```
 
 ```
